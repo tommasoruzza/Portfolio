@@ -245,6 +245,25 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="260" align="center" valign="middle">
+      <img src="images/Supermarket%20Chain%20Anaylsis.png" width="230" alt="Supermarket Chain Analysis" style="border-radius:10px;">
+    </td>
+    <td valign="middle">
+      <p style="margin:0; padding:0;">
+        <a href="https://github.com/tommasoruzza/Supermarket-Chain-Analysis" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
+          Supermarket Chain Analysis
+        </a>
+      </p>
+      <p style="margin-top:6px;">
+        Developed an interactive Tableau dashboard and story for a leading European retailer 
+        to monitor sales performance, profitability, and logistics across multiple countries.
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 
 
