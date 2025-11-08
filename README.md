@@ -205,6 +205,25 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="260" align="center" valign="middle">
+      <img src="images/Face%20Detection%20System%20for%20a%20Digital%20Camera.png" width="230" alt="Face Detection System for a Digital Camera" style="border-radius:10px;">
+    </td>
+    <td valign="middle">
+      <p style="margin:0; padding:0;">
+        <a href="https://github.com/tommasoruzza/Face-Detection-System-for-a-Digital-Camera" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
+          Face Detection System for a Digital Camera
+        </a>
+      </p>
+      <p style="margin-top:6px;">
+        I designed and implemented a Face Detection System for a Digital Camera to automatically improve selfie shooting quality. 
+        I sourced and prepared data, extracted HOG features, implemented a sliding-window detector 
+        and trained Scikit-learn classifiers from scratch (no pre-trained models).
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 
