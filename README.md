@@ -391,16 +391,16 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ### 🧠 Master in Data Science
 
-<div style="background-color:#f6f8fa; border-radius:10px; padding:15px; margin-bottom:20px;">
+<div style="background-color:#f6f8fa; border-radius:10px; padding:20px; margin-bottom:25px; width:100%; display:block;">
 
-<table>
+<table width="100%">
   <tr>
-    <td width="35%" align="center">
+    <td width="30%" align="center" valign="middle">
       <a href="https://badgr.com/public/assertions/WgGKhTDTRj-poaUmBT1GQg" target="_blank">
         <img src="images/Master_in_Data_Science.png" alt="Master in Data Science Certificate" width="180" style="border-radius:10px;">
       </a>
     </td>
-    <td width="65%" valign="middle">
+    <td width="70%" valign="middle">
       🔗 <a href="https://badgr.com/public/assertions/WgGKhTDTRj-poaUmBT1GQg" target="_blank"><b>View official Badgr certificate</b></a><br>
       The following certificates were earned during my <b>Master in Data Science</b> program.
       <br><br>
@@ -427,16 +427,16 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ### 📊 Master in Data Analytics
 
-<div style="background-color:#f6f8fa; border-radius:10px; padding:15px;">
+<div style="background-color:#f6f8fa; border-radius:10px; padding:20px; width:100%; display:block;">
 
-<table>
+<table width="100%">
   <tr>
-    <td width="35%" align="center">
+    <td width="30%" align="center" valign="middle">
       <a href="https://badgr.com/public/assertions/GK8EGuLCRW690Y0JSoiPIg" target="_blank">
         <img src="images/Master_in_Data_Analytics.png" alt="Master in Data Analytics Certificate" width="180" style="border-radius:10px;">
       </a>
     </td>
-    <td width="65%" valign="middle">
+    <td width="70%" valign="middle">
       🔗 <a href="https://badgr.com/public/assertions/GK8EGuLCRW690Y0JSoiPIg" target="_blank"><b>View official Badgr certificate</b></a><br>
       The following certificates were earned during my <b>Master in Data Analytics</b> program.
       <br><br>
@@ -458,7 +458,6 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
   </tr>
 </table>
 </div>
-
 
 
 
