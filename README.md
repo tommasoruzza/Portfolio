@@ -400,13 +400,23 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
       </a>
     </td>
 
-    <!-- TESTO A DESTRA -->
-    <td valign="top">
-      <h3>🧠 Master in Data Science</h3>
-      <p>
-        🔗 <a href="https://badgr.com/public/assertions/WgGKhTDTRj-poaUmBT1GQg" target="_blank"><b>View official Badgr certificate</b></a><br>
-        In this Master program, I earned the following certificates:
-      </p>
+## 🎓 Certificates
+
+### 🧠 Master in Data Science
+
+<div style="background-color:#f6f8fa; border-radius:10px; padding:15px; margin-bottom:20px;">
+
+<table>
+  <tr>
+    <td width="35%" align="center">
+      <a href="https://badgr.com/public/assertions/WgGKhTDTRj-poaUmBT1GQg" target="_blank">
+        <img src="images/Master_in_Data_Science.png" alt="Master in Data Science Certificate" width="180" style="border-radius:10px;">
+      </a>
+    </td>
+    <td width="65%" valign="middle">
+      🔗 <a href="https://badgr.com/public/assertions/WgGKhTDTRj-poaUmBT1GQg" target="_blank"><b>View official Badgr certificate</b></a><br>
+      The following certificates were earned during my <b>Master in Data Science</b> program.
+      <br><br>
       <ul>
         <li><a href="certificates/1.%20Data%20Science/1.%20Programming%20with%20Python.pdf">Programming with Python</a></li>
         <li><a href="certificates/1.%20Data%20Science/2.%20Principles%20of%20Descriptive%20Statistics%20with%20R.pdf">Principles of Descriptive Statistics with R</a></li>
@@ -424,25 +434,25 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
+### 📊 Master in Data Analytics
+
+<div style="background-color:#f6f8fa; border-radius:10px; padding:15px;">
+
 <table>
   <tr>
-    <!-- IMMAGINE -->
-    <td width="260" align="center" valign="middle">
+    <td width="35%" align="center">
       <a href="https://badgr.com/public/assertions/GK8EGuLCRW690Y0JSoiPIg" target="_blank">
-        <img src="images/Master_in_Data_Analytics.png" alt="Master in Data Analytics" width="180" style="border-radius:10px;">
+        <img src="images/Master_in_Data_Analytics.png" alt="Master in Data Analytics Certificate" width="180" style="border-radius:10px;">
       </a>
     </td>
-
-    <!-- TESTO A DESTRA -->
-    <td valign="top">
-      <h3>📊 Master in Data Analytics</h3>
-      <p>
-        🔗 <a href="https://badgr.com/public/assertions/GK8EGuLCRW690Y0JSoiPIg" target="_blank"><b>View official Badgr certificate</b></a><br>
-        In this Master program, I earned the following certificates:
-      </p>
+    <td width="65%" valign="middle">
+      🔗 <a href="https://badgr.com/public/assertions/GK8EGuLCRW690Y0JSoiPIg" target="_blank"><b>View official Badgr certificate</b></a><br>
+      The following certificates were earned during my <b>Master in Data Analytics</b> program.
+      <br><br>
       <ul>
         <li><a href="certificates/2.%20Data%20Analytics/1.%20Fundamentals%20of%20Data%20Analysis%20with%20Excel.pdf">Fundamentals of Data Analysis with Excel</a></li>
         <li><a href="certificates/2.%20Data%20Analytics/2.%20Data%20Analysis%20with%20Excel.pdf">Data Analysis with Excel</a></li>
@@ -460,6 +470,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
     </td>
   </tr>
 </table>
+</div>
 
 
 
