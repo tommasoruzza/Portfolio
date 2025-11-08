@@ -185,6 +185,27 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="260" align="center" valign="middle">
+      <img src="images/Anti%20Hater%20Filter%20for%20Social%20Networks.png" width="230" alt="Anti-Hater Filter for Social Networks" style="border-radius:10px;">
+    </td>
+    <td valign="middle">
+      <p style="margin:0; padding:0;">
+        <a href="https://github.com/tommasoruzza/Anti-Hater-Filter-for-Social-Networks" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
+          Anti-Hater Filter for Social Networks
+        </a>
+      </p>
+      <p style="margin-top:6px;">
+        I developed a Deep Learning “Anti-Hater Filter” to automatically classify toxic comments into 6 categories 
+        (insult, threat, obscene, identity hate, etc.). I prepared and balanced a 160k comments dataset, tokenized the text, 
+        and trained an LSTM/GRU based multi-label classifier.
+      </p>
+    </td>
+  </tr>
+</table>
+
+
 
 
 
