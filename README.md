@@ -389,8 +389,19 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## 🎓 Certificates
 
+---
+
 ### 🧠 Master in Data Science
-The following certificates were earned during my Master in Data Science program.
+
+<a href="https://badgr.com/public/assertions/WgGKhTDTRj-poaUmBT1GQg" target="_blank">
+  <img src="images/Master%20in%20Data%20Science.png" alt="Master in Data Science Certificate" width="400" align="left" style="margin-right: 15px; border-radius:10px;">
+</a>
+
+**[🎖 View official Badgr certificate](https://badgr.com/public/assertions/WgGKhTDTRj-poaUmBT1GQg)**
+
+<br clear="left"/>
+
+The following certificates were earned during my **Master in Data Science** program.
 
 - [1. Programming with Python](certificates/1.%20Data%20Science/1.%20Programming%20with%20Python.pdf)
 - [2. Principles of Descriptive Statistics with R](certificates/1.%20Data%20Science/2.%20Principles%20of%20Descriptive%20Statistics%20with%20R.pdf)
@@ -408,7 +419,16 @@ The following certificates were earned during my Master in Data Science program.
 ---
 
 ### 📊 Master in Data Analytics
-The following certificates were earned during my Master in Data Analytics program.
+
+<a href="https://badgr.com/public/assertions/GK8EGuLCRW690Y0JSoiPIg" target="_blank">
+  <img src="images/Master%20in%20Data%20Analytics.png" alt="Master in Data Analytics Certificate" width="400" align="left" style="margin-right: 15px; border-radius:10px;">
+</a>
+
+**[🎖 View official Badgr certificate](https://badgr.com/public/assertions/GK8EGuLCRW690Y0JSoiPIg)**
+
+<br clear="left"/>
+
+The following certificates were earned during my **Master in Data Analytics** program.
 
 - [1. Fundamentals of Data Analysis with Excel](certificates/2.%20Data%20Analytics/1.%20Fundamentals%20of%20Data%20Analysis%20with%20Excel.pdf)
 - [2. Data Analysis with Excel](certificates/2.%20Data%20Analytics/2.%20Data%20Analysis%20with%20Excel.pdf)
@@ -422,6 +442,9 @@ The following certificates were earned during my Master in Data Analytics progra
 - [10. SQL](certificates/2.%20Data%20Analytics/10.%20SQL.pdf)
 - [11. Big Data](certificates/2.%20Data%20Analytics/11.%20Big%20Data.pdf)
 - [Final Certification – Data Analytics Professional](certificates/2.%20Data%20Analytics/Final%20Certification%20Data%20Analytics%20ProfessionAI.pdf)
+
+
+
 
 
 
