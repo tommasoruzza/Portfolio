@@ -391,8 +391,15 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ### 🧠 Master in Data Science
 
+<div style="background-color:#f6f8fa; border-radius:10px; padding:15px; margin-bottom:20px;">
+
 <table>
   <tr>
+    <td width="35%" align="center">
+      <a href="https://badgr.com/public/assertions/WgGKhTDTRj-poaUmBT1GQg" target="_blank">
+        <img src="images/Master_in_Data_Science.png" alt="Master in Data Science Certificate" width="180" style="border-radius:10px;">
+      </a>
+    </td>
     <td width="65%" valign="middle">
       🔗 <a href="https://badgr.com/public/assertions/WgGKhTDTRj-poaUmBT1GQg" target="_blank"><b>View official Badgr certificate</b></a><br>
       The following certificates were earned during my <b>Master in Data Science</b> program.
@@ -412,20 +419,23 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
         <li><a href="certificates/1.%20Data%20Science/Final%20Certification%20Data%20Science%20ProfessionAI.pdf">Final Certification – Data Science Professional</a></li>
       </ul>
     </td>
-    <td width="35%" align="center">
-      <a href="https://badgr.com/public/assertions/WgGKhTDTRj-poaUmBT1GQg" target="_blank">
-        <img src="images/Master_in_Data_Science.png" alt="Master in Data Science Certificate" width="180" style="border-radius:10px;">
-      </a>
-    </td>
   </tr>
 </table>
+</div>
 
 ---
 
 ### 📊 Master in Data Analytics
 
+<div style="background-color:#f6f8fa; border-radius:10px; padding:15px;">
+
 <table>
   <tr>
+    <td width="35%" align="center">
+      <a href="https://badgr.com/public/assertions/GK8EGuLCRW690Y0JSoiPIg" target="_blank">
+        <img src="images/Master_in_Data_Analytics.png" alt="Master in Data Analytics Certificate" width="180" style="border-radius:10px;">
+      </a>
+    </td>
     <td width="65%" valign="middle">
       🔗 <a href="https://badgr.com/public/assertions/GK8EGuLCRW690Y0JSoiPIg" target="_blank"><b>View official Badgr certificate</b></a><br>
       The following certificates were earned during my <b>Master in Data Analytics</b> program.
@@ -445,13 +455,9 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
         <li><a href="certificates/2.%20Data%20Analytics/Final%20Certification%20Data%20Analytics%20ProfessionAI.pdf">Final Certification – Data Analytics Professional</a></li>
       </ul>
     </td>
-    <td width="35%" align="center">
-      <a href="https://badgr.com/public/assertions/GK8EGuLCRW690Y0JSoiPIg" target="_blank">
-        <img src="images/Master_in_Data_Analytics.png" alt="Master in Data Analytics Certificate" width="180" style="border-radius:10px;">
-      </a>
-    </td>
   </tr>
 </table>
+</div>
 
 
 
