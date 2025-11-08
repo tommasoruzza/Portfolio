@@ -146,6 +146,25 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="260" align="center" valign="middle">
+      <img src="images/Cross%20Selling%20Insurance%20Policies.png" width="230" alt="Cross Selling Insurance Policies" style="border-radius:10px;">
+    </td>
+    <td valign="middle">
+      <p style="margin:0; padding:0;">
+        <a href="https://github.com/tommasoruzza/Cross-Selling-Insurance-Policies" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
+          Cross Selling Insurance Policies
+        </a>
+      </p>
+      <p style="margin-top:6px;">
+        The objective was to understand which existing customers were more likely to accept additional insurance products, 
+        and to support Marketing / Sales with a data-driven prioritization.
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 
 
