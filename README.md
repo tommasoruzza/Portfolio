@@ -165,6 +165,27 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="260" align="center" valign="middle">
+      <img src="images/Customer%20Segmentation.png" width="230" alt="Customer Segmentation" style="border-radius:10px;">
+    </td>
+    <td valign="middle">
+      <p style="margin:0; padding:0;">
+        <a href="https://github.com/tommasoruzza/Customer-Segmentation-for-a-Financial-Services-Company" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
+          Customer Segmentation
+        </a>
+      </p>
+      <p style="margin-top:6px;">
+        In this project, I performed customer segmentation for a financial services company. 
+        The primary goal was to identify distinct customer segments to enable targeted marketing strategies 
+        and improve customer engagement.
+      </p>
+    </td>
+  </tr>
+</table>
+
+
 
 
 
