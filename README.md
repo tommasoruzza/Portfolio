@@ -394,7 +394,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 ### 🧠 Master in Data Science
 
 <a href="https://badgr.com/public/assertions/WgGKhTDTRj-poaUmBT1GQg" target="_blank">
-  <img src="images/Master%20in%20Data%20Science.png" alt="Master in Data Science Certificate" width="400" align="left" style="margin-right: 15px; border-radius:10px;">
+  <img src="images/Master_in_Data_Science.png" alt="Master in Data Science Certificate" width="400" align="left" style="margin-right: 15px; border-radius:10px;">
 </a>
 
 **[🎖 View official Badgr certificate](https://badgr.com/public/assertions/WgGKhTDTRj-poaUmBT1GQg)**
@@ -421,7 +421,7 @@ The following certificates were earned during my **Master in Data Science** prog
 ### 📊 Master in Data Analytics
 
 <a href="https://badgr.com/public/assertions/GK8EGuLCRW690Y0JSoiPIg" target="_blank">
-  <img src="images/Master%20in%20Data%20Analytics.png" alt="Master in Data Analytics Certificate" width="400" align="left" style="margin-right: 15px; border-radius:10px;">
+  <img src="images/Master_in_Data_Analytics.png" alt="Master in Data Analytics Certificate" width="400" align="left" style="margin-right: 15px; border-radius:10px;">
 </a>
 
 **[🎖 View official Badgr certificate](https://badgr.com/public/assertions/GK8EGuLCRW690Y0JSoiPIg)**
@@ -442,6 +442,7 @@ The following certificates were earned during my **Master in Data Analytics** pr
 - [10. SQL](certificates/2.%20Data%20Analytics/10.%20SQL.pdf)
 - [11. Big Data](certificates/2.%20Data%20Analytics/11.%20Big%20Data.pdf)
 - [Final Certification – Data Analytics Professional](certificates/2.%20Data%20Analytics/Final%20Certification%20Data%20Analytics%20ProfessionAI.pdf)
+
 
 
 
