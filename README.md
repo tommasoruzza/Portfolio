@@ -87,6 +87,25 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="260" align="center" valign="middle">
+      <img src="images/Anti%20Spam%20Software%20for%20a%20University.png" width="230" alt="Anti Spam Software for a University" style="border-radius:10px;">
+    </td>
+    <td valign="middle">
+      <p style="margin:0; padding:0;">
+        <a href="https://github.com/tommasoruzza/Anti-Spam-Software-for-a-University" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
+          Anti Spam Software for a University
+        </a>
+      </p>
+      <p style="margin-top:6px;">
+        The anti-spam software project aimed to safeguard university communication channels 
+        by developing a robust system to detect and filter out spam emails.
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 
 
