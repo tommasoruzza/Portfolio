@@ -346,7 +346,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 <table>
   <tr>
     <td width="260" align="center" valign="middle">
-      <img src="images/Random%20Data%20Anaylis%20and%20Linear%20Regression.png" width="230" alt="Random Data Analysis and Linear Regression" style="border-radius:10px;">
+      <img src="images/Random%20Data%20Analyis%20and%20Linear%20Regression.png" width="230" alt="Random Data Analysis and Linear Regression" style="border-radius:10px;">
     </td>
     <td valign="middle">
       <p style="margin:0; padding:0;">
@@ -361,6 +361,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
     </td>
   </tr>
 </table>
+
 
 
 
