@@ -225,6 +225,26 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="260" align="center" valign="middle">
+      <img src="images/Bank%20Customer%20Analysis.png" width="230" alt="Bank Customer Analysis" style="border-radius:10px;">
+    </td>
+    <td valign="middle">
+      <p style="margin:0; padding:0;">
+        <a href="https://github.com/tommasoruzza/Bank-Customer-Analysis" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
+          Bank Customer Analysis
+        </a>
+      </p>
+      <p style="margin-top:6px;">
+        Banking Intelligence aimed to develop a machine learning model to predict future customer behaviors 
+        based on data and product ownership characteristics. The goal was to build a feature table 
+        for training machine learning models by enriching customer data with various indicators.
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 
 
