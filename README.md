@@ -126,6 +126,26 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="260" align="center" valign="middle">
+      <img src="images/Credit%20Realibility%20for%20Credit%20Card%20Issuance.png" width="230" alt="Credit Realibility for Credit Card Issuance" style="border-radius:10px;">
+    </td>
+    <td valign="middle">
+      <p style="margin:0; padding:0;">
+        <a href="https://github.com/tommasoruzza/Credit-Realibility-for-Credit-Card-Issuance" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
+          Credit Realibility for Credit Card Issuance
+        </a>
+      </p>
+      <p style="margin-top:6px;">
+        I worked on a Credit Reliability project for credit card issuance, covering the complete machine learning pipeline: 
+        from collecting and preprocessing applicant data (income, credit history, employment status) 
+        to feature engineering and model selection.
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 
 
