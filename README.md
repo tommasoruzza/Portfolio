@@ -11,12 +11,9 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 <table>
   <tr>
-    <!-- FOTO A SINISTRA -->
     <td width="180" align="center" valign="top">
       <img src="images/Vegan%20Store.png" width="150" alt="Vegan Store">
     </td>
-
-    <!-- TITOLO + DESCRIZIONE A DESTRA -->
     <td valign="top">
       <h3>
         <a href="https://github.com/tommasoruzza/Vegan-Store" target="_blank">
@@ -30,6 +27,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
     </td>
   </tr>
 </table>
+
 
 
 
