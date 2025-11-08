@@ -343,6 +343,25 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="260" align="center" valign="middle">
+      <img src="images/Random%20Data%20Analysis%20and%20Linear%20Regression.png" width="230" alt="Random Data Analysis and Linear Regression" style="border-radius:10px;">
+    </td>
+    <td valign="middle">
+      <p style="margin:0; padding:0;">
+        <a href="https://github.com/tommasoruzza/Random-Data-Analysis-and-Linear-Regression" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
+          Random Data Analysis and Linear Regression
+        </a>
+      </p>
+      <p style="margin-top:6px;">
+        Created a multi-tab Excel statistical project where I generated synthetic normally-distributed data, built random sample extraction logic, 
+        calculated descriptive and inferential statistics, analysed variable correlations and performed linear regression with visualisation.
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 
 
