@@ -389,19 +389,6 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## 🎓 Certificates
 
----
-
-<table>
-  <tr>
-    <!-- IMMAGINE -->
-    <td width="260" align="center" valign="middle">
-      <a href="https://badgr.com/public/assertions/WgGKhTDTRj-poaUmBT1GQg" target="_blank">
-        <img src="images/Master_in_Data_Science.png" alt="Master in Data Science" width="180" style="border-radius:10px;">
-      </a>
-    </td>
-
-## 🎓 Certificates
-
 ### 🧠 Master in Data Science
 
 <div style="background-color:#f6f8fa; border-radius:10px; padding:15px; margin-bottom:20px;">
