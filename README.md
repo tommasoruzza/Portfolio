@@ -67,6 +67,26 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="260" align="center" valign="middle">
+      <img src="images/Bitcoin%20Sentiment%20Analysis.png" width="230" alt="Bitcoin Sentiment Analysis" style="border-radius:10px;">
+    </td>
+    <td valign="middle">
+      <p style="margin:0; padding:0;">
+        <a href="https://github.com/tommasoruzza/Bitcoin-Sentiment-Analysis" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
+          Bitcoin Sentiment Analysis
+        </a>
+      </p>
+      <p style="margin-top:6px;">
+        MarketPulse Analytics, a company in the market research sector, initiated a project to estimate public consensus 
+        on Bitcoin by analyzing millions of tweets. My responsibility was to conduct a sentiment analysis on the collected 
+        data and understand how opinions regarding Bitcoin varied over time.
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 
 
