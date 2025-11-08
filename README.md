@@ -303,6 +303,27 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="260" align="center" valign="middle">
+      <img src="images/Statistical%20Model%20for%20Neonatal%20Weight%20Predictions.png" width="230" alt="Statistical Model for Neonatal Weight Predictions" style="border-radius:10px;">
+    </td>
+    <td valign="middle">
+      <p style="margin:0; padding:0;">
+        <a href="https://github.com/tommasoruzza/Statistical-Model-for-Neonatal-Weight-Predictions" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
+          Statistical Model for Neonatal Weight Predictions
+        </a>
+      </p>
+      <p style="margin-top:6px;">
+        As part of the Neonatal Health Solutions initiative, I led the development of a statistical model aimed at predicting 
+        newborn birth weight based on clinical variables collected from three hospitals. This project was designed to enhance 
+        the management of high-risk pregnancies.
+      </p>
+    </td>
+  </tr>
+</table>
+
+
 
 
 
