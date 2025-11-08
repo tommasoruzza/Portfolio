@@ -106,6 +106,26 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="260" align="center" valign="middle">
+      <img src="images/Automatic%20Fake%20News%20Recognition.png" width="230" alt="Automatic Fake News Recognition" style="border-radius:10px;">
+    </td>
+    <td valign="middle">
+      <p style="margin:0; padding:0;">
+        <a href="https://github.com/tommasoruzza/Automatic-Fake-News-Recognition-Project" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
+          Automatic Fake News Recognition
+        </a>
+      </p>
+      <p style="margin-top:6px;">
+        The primary objective achieved through this project was the development and deployment of an efficient 
+        and accurate system for automatically detecting fake news articles using Natural Language Processing (NLP) 
+        techniques and machine learning models.
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 
 
