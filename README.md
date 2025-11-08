@@ -391,55 +391,68 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ### 🧠 Master in Data Science
 
-<p align="left">
-  <a href="https://badgr.com/public/assertions/WgGKhTDTRj-poaUmBT1GQg" target="_blank">
-    <img src="images/Master_in_Data_Science.png" alt="Master in Data Science Certificate" width="230" style="border-radius:10px;">
-  </a>
-</p>
-
-🔗 [**View official Badgr certificate**](https://badgr.com/public/assertions/WgGKhTDTRj-poaUmBT1GQg)
-
-The following certificates were earned during my **Master in Data Science** program.
-
-[1. Programming with Python](certificates/1.%20Data%20Science/1.%20Programming%20with%20Python.pdf)  
-[2. Principles of Descriptive Statistics with R](certificates/1.%20Data%20Science/2.%20Principles%20of%20Descriptive%20Statistics%20with%20R.pdf)  
-[3. Principles of Inferential Statistics with R](certificates/1.%20Data%20Science/3.%20Principles%20of%20Inferential%20Statistics%20with%20R.pdf)  
-[4. Fundamentals of Machine Learning](certificates/1.%20Data%20Science/4.%20Fundamentals%20of%20Machine%20Learning.pdf)  
-[5. Machine Learning Models and Algorithms](certificates/1.%20Data%20Science/5.%20Machine%20Learning%20Models%20and%20Algorithms.pdf)  
-[6. Machine Learning - Advanced Techniques](certificates/1.%20Data%20Science/6.%20Machine%20Learning%20-%20Advanced%20Techniques.pdf)  
-[7. Deep Learning and Artificial Neural Networks](certificates/1.%20Data%20Science/7.%20Deep%20Learning%20and%20Artificial%20Neural%20Networks.pdf)  
-[8. Natural Language Processing](certificates/1.%20Data%20Science/8.%20Natural%20Language%20Processing.pdf)  
-[9. SQL](certificates/1.%20Data%20Science/9.%20SQL.pdf)  
-[10. Big Data](certificates/1.%20Data%20Science/10.%20Big%20Data.pdf)  
-[11. Data Visualization Techniques](certificates/1.%20Data%20Science/11.%20Data%20Visualization%20Techniques.pdf)  
-[Final Certification – Data Science Professional](certificates/1.%20Data%20Science/Final%20Certification%20Data%20Science%20ProfessionAI.pdf)  
+<table>
+  <tr>
+    <td width="65%" valign="middle">
+      🔗 <a href="https://badgr.com/public/assertions/WgGKhTDTRj-poaUmBT1GQg" target="_blank"><b>View official Badgr certificate</b></a><br>
+      The following certificates were earned during my <b>Master in Data Science</b> program.
+      <br><br>
+      <ul>
+        <li><a href="certificates/1.%20Data%20Science/1.%20Programming%20with%20Python.pdf">Programming with Python</a></li>
+        <li><a href="certificates/1.%20Data%20Science/2.%20Principles%20of%20Descriptive%20Statistics%20with%20R.pdf">Principles of Descriptive Statistics with R</a></li>
+        <li><a href="certificates/1.%20Data%20Science/3.%20Principles%20of%20Inferential%20Statistics%20with%20R.pdf">Principles of Inferential Statistics with R</a></li>
+        <li><a href="certificates/1.%20Data%20Science/4.%20Fundamentals%20of%20Machine%20Learning.pdf">Fundamentals of Machine Learning</a></li>
+        <li><a href="certificates/1.%20Data%20Science/5.%20Machine%20Learning%20Models%20and%20Algorithms.pdf">Machine Learning Models and Algorithms</a></li>
+        <li><a href="certificates/1.%20Data%20Science/6.%20Machine%20Learning%20-%20Advanced%20Techniques.pdf">Machine Learning - Advanced Techniques</a></li>
+        <li><a href="certificates/1.%20Data%20Science/7.%20Deep%20Learning%20and%20Artificial%20Neural%20Networks.pdf">Deep Learning and Artificial Neural Networks</a></li>
+        <li><a href="certificates/1.%20Data%20Science/8.%20Natural%20Language%20Processing.pdf">Natural Language Processing</a></li>
+        <li><a href="certificates/1.%20Data%20Science/9.%20SQL.pdf">SQL</a></li>
+        <li><a href="certificates/1.%20Data%20Science/10.%20Big%20Data.pdf">Big Data</a></li>
+        <li><a href="certificates/1.%20Data%20Science/11.%20Data%20Visualization%20Techniques.pdf">Data Visualization Techniques</a></li>
+        <li><a href="certificates/1.%20Data%20Science/Final%20Certification%20Data%20Science%20ProfessionAI.pdf">Final Certification – Data Science Professional</a></li>
+      </ul>
+    </td>
+    <td width="35%" align="center">
+      <a href="https://badgr.com/public/assertions/WgGKhTDTRj-poaUmBT1GQg" target="_blank">
+        <img src="images/Master_in_Data_Science.png" alt="Master in Data Science Certificate" width="180" style="border-radius:10px;">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📊 Master in Data Analytics
 
-<p align="left">
-  <a href="https://badgr.com/public/assertions/GK8EGuLCRW690Y0JSoiPIg" target="_blank">
-    <img src="images/Master_in_Data_Analytics.png" alt="Master in Data Analytics Certificate" width="230" style="border-radius:10px;">
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="65%" valign="middle">
+      🔗 <a href="https://badgr.com/public/assertions/GK8EGuLCRW690Y0JSoiPIg" target="_blank"><b>View official Badgr certificate</b></a><br>
+      The following certificates were earned during my <b>Master in Data Analytics</b> program.
+      <br><br>
+      <ul>
+        <li><a href="certificates/2.%20Data%20Analytics/1.%20Fundamentals%20of%20Data%20Analysis%20with%20Excel.pdf">Fundamentals of Data Analysis with Excel</a></li>
+        <li><a href="certificates/2.%20Data%20Analytics/2.%20Data%20Analysis%20with%20Excel.pdf">Data Analysis with Excel</a></li>
+        <li><a href="certificates/2.%20Data%20Analytics/3.%20Advanced%20Data%20Analysis%20with%20Excel.pdf">Advanced Data Analysis with Excel</a></li>
+        <li><a href="certificates/2.%20Data%20Analytics/4.%20Business%20Intelligence%20with%20PowerBI.pdf">Business Intelligence with Power BI</a></li>
+        <li><a href="certificates/2.%20Data%20Analytics/5.%20Data%20Visualization%20Techniques%20with%20Tableau.pdf">Data Visualization Techniques with Tableau</a></li>
+        <li><a href="certificates/2.%20Data%20Analytics/6.%20Programming%20with%20Python.pdf">Programming with Python</a></li>
+        <li><a href="certificates/2.%20Data%20Analytics/7.%20Python%20Data%20Toolkit.pdf">Python Data Toolkit</a></li>
+        <li><a href="certificates/2.%20Data%20Analytics/8.%20Fundamentals%20of%20Machine%20Learning.pdf">Fundamentals of Machine Learning</a></li>
+        <li><a href="certificates/2.%20Data%20Analytics/9.%20Natural%20Language%20Processing.pdf">Natural Language Processing</a></li>
+        <li><a href="certificates/2.%20Data%20Analytics/10.%20SQL.pdf">SQL</a></li>
+        <li><a href="certificates/2.%20Data%20Analytics/11.%20Big%20Data.pdf">Big Data</a></li>
+        <li><a href="certificates/2.%20Data%20Analytics/Final%20Certification%20Data%20Analytics%20ProfessionAI.pdf">Final Certification – Data Analytics Professional</a></li>
+      </ul>
+    </td>
+    <td width="35%" align="center">
+      <a href="https://badgr.com/public/assertions/GK8EGuLCRW690Y0JSoiPIg" target="_blank">
+        <img src="images/Master_in_Data_Analytics.png" alt="Master in Data Analytics Certificate" width="180" style="border-radius:10px;">
+      </a>
+    </td>
+  </tr>
+</table>
 
-🔗 [**View official Badgr certificate**](https://badgr.com/public/assertions/GK8EGuLCRW690Y0JSoiPIg)
-
-The following certificates were earned during my **Master in Data Analytics** program.
-
-[1. Fundamentals of Data Analysis with Excel](certificates/2.%20Data%20Analytics/1.%20Fundamentals%20of%20Data%20Analysis%20with%20Excel.pdf)  
-[2. Data Analysis with Excel](certificates/2.%20Data%20Analytics/2.%20Data%20Analysis%20with%20Excel.pdf)  
-[3. Advanced Data Analysis with Excel](certificates/2.%20Data%20Analytics/3.%20Advanced%20Data%20Analysis%20with%20Excel.pdf)  
-[4. Business Intelligence with Power BI](certificates/2.%20Data%20Analytics/4.%20Business%20Intelligence%20with%20PowerBI.pdf)  
-[5. Data Visualization Techniques with Tableau](certificates/2.%20Data%20Analytics/5.%20Data%20Visualization%20Techniques%20with%20Tableau.pdf)  
-[6. Programming with Python](certificates/2.%20Data%20Analytics/6.%20Programming%20with%20Python.pdf)  
-[7. Python Data Toolkit](certificates/2.%20Data%20Analytics/7.%20Python%20Data%20Toolkit.pdf)  
-[8. Fundamentals of Machine Learning](certificates/2.%20Data%20Analytics/8.%20Fundamentals%20of%20Machine%20Learning.pdf)  
-[9. Natural Language Processing](certificates/2.%20Data%20Analytics/9.%20Natural%20Language%20Processing.pdf)  
-[10. SQL](certificates/2.%20Data%20Analytics/10.%20SQL.pdf)  
-[11. Big Data](certificates/2.%20Data%20Analytics/11.%20Big%20Data.pdf)  
-[Final Certification – Data Analytics Professional](certificates/2.%20Data%20Analytics/Final%20Certification%20Data%20Analytics%20ProfessionAI.pdf)
 
 
 
