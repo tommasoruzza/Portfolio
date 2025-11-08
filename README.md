@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio Data Science & Data Analytics
 
 I'm a determined person, ready to face always new challenges and to give all my efforts in them. I'm a goal oriented person and I'm convinced that a goal is better and easier reached with a smile on the face and having the right attitude towards people. I have skills and experience in the Administrative and Financial area with a strong inclination towards Reporting and Data Analysis. I'm developing a strong interest in Data Science and the use of AI tools. I'm always ready to take part into new experiences because I strongly believe that every lost occasion is a lost opportunity.
 
