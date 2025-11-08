@@ -9,22 +9,28 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 # Projects
 
-<h2>Vegan Store</h2>
+<table>
+  <tr>
+    <!-- FOTO A SINISTRA -->
+    <td width="180" align="center" valign="top">
+      <img src="images/Vegan%20Store.png" width="150" alt="Vegan Store">
+    </td>
 
-<p align="center">
-  <a href="https://github.com/tommasoruzza/VeganStore" target="_blank">
-    <img src="images/Vegan%20Store.png" width="400" alt="Vegan Store">
-  </a>
-</p>
+    <!-- TITOLO + DESCRIZIONE A DESTRA -->
+    <td valign="top">
+      <h3>
+        <a href="https://github.com/tommasoruzza/Vegan-Store" target="_blank">
+          Vegan Store
+        </a>
+      </h3>
+      <p>
+        In this project, I was responsible for developing customized software for a vegan store 
+        to streamline its operations, manage inventory, and enhance the overall customer experience.
+      </p>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  In this project, I was responsible for developing customized software for a vegan store 
-  to streamline its operations, manage inventory, and enhance the overall customer experience.
-</p>
-
-<p align="center">
-  🔗 <a href="https://github.com/tommasoruzza/VeganStore" target="_blank"><b>View Project on GitHub</b></a>
-</p>
 
 
 
