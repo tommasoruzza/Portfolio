@@ -362,6 +362,24 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="260" align="center" valign="middle">
+      <img src="images/Analysis%20of%20Customer%20Complaints.png" width="230" alt="Analysis of Customer Complaints" style="border-radius:10px;">
+    </td>
+    <td valign="middle">
+      <p style="margin:0; padding:0;">
+        <a href="https://github.com/tommasoruzza/Analysis-of-Consumer-Complaints" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
+          Analysis of Customer Complaints
+        </a>
+      </p>
+      <p style="margin-top:6px;">
+        Designed and developed a re-structured Excel analytical dashboard for FinServ Solutions 
+        to optimise the analysis of consumer complaints in the financial sector.
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 
