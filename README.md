@@ -258,7 +258,31 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
       </p>
       <p style="margin-top:6px;">
         Developed an interactive Tableau dashboard and story for a leading European retailer 
-        to monitor sales performance, profitability, and logistics across multiple
+        to monitor sales performance, profitability, and logistics across multiple countries.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="260" align="center" valign="middle">
+      <img src="images/Analysis%20of%20Homicides%20in%20the%20USA.png" width="230" alt="Analysis of Homicides in the USA" style="border-radius:10px;">
+    </td>
+    <td valign="middle">
+      <p style="margin:0; padding:0;">
+        <a href="https://github.com/tommasoruzza/Analysis-of-Homicides-in-the-USA" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
+          Analysis of Homicides in the USA
+        </a>
+      </p>
+      <p style="margin-top:6px;">
+        Developed a multi-page Power BI dashboard integrating data from multiple sources (Wikipedia, CSV, Excel) 
+        to analyze and visualize U.S. states’ population and homicide statistics.
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 
 
