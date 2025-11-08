@@ -17,9 +17,10 @@ manage inventory, and enhance the overall customer experience.
 
 <p align="center">
   <a href="docs/Vegan_Store.pdf">
-    <img src="Images/vegan_store.jpg" width="720" alt="Vegan Store">
+    <img src="images/Vegan%20Store.png" width="720" alt="Vegan Store">
   </a>
 </p>
+
 
 
 
