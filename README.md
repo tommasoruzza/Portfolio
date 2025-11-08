@@ -391,16 +391,14 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ### 🧠 Master in Data Science
 
-<div style="background-color:#f6f8fa; border-radius:10px; padding:20px; margin-bottom:25px; width:100%; display:block;">
-
-<table width="100%">
+<table style="width:100%;">
   <tr>
-    <td width="30%" align="center" valign="middle">
+    <td width="260" align="center" valign="middle">
       <a href="https://badgr.com/public/assertions/WgGKhTDTRj-poaUmBT1GQg" target="_blank">
         <img src="images/Master_in_Data_Science.png" alt="Master in Data Science Certificate" width="180" style="border-radius:10px;">
       </a>
     </td>
-    <td width="70%" valign="middle">
+    <td valign="middle">
       🔗 <a href="https://badgr.com/public/assertions/WgGKhTDTRj-poaUmBT1GQg" target="_blank"><b>View official Badgr certificate</b></a><br>
       The following certificates were earned during my <b>Master in Data Science</b> program.
       <br><br>
@@ -421,22 +419,19 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
     </td>
   </tr>
 </table>
-</div>
 
 ---
 
 ### 📊 Master in Data Analytics
 
-<div style="background-color:#f6f8fa; border-radius:10px; padding:20px; width:100%; display:block;">
-
-<table width="100%">
+<table style="width:100%;">
   <tr>
-    <td width="30%" align="center" valign="middle">
+    <td width="260" align="center" valign="middle">
       <a href="https://badgr.com/public/assertions/GK8EGuLCRW690Y0JSoiPIg" target="_blank">
         <img src="images/Master_in_Data_Analytics.png" alt="Master in Data Analytics Certificate" width="180" style="border-radius:10px;">
       </a>
     </td>
-    <td width="70%" valign="middle">
+    <td valign="middle">
       🔗 <a href="https://badgr.com/public/assertions/GK8EGuLCRW690Y0JSoiPIg" target="_blank"><b>View official Badgr certificate</b></a><br>
       The following certificates were earned during my <b>Master in Data Analytics</b> program.
       <br><br>
@@ -457,7 +452,6 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
     </td>
   </tr>
 </table>
-</div>
 
 
 
