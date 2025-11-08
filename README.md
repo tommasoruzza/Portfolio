@@ -283,6 +283,26 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="260" align="center" valign="middle">
+      <img src="images/Texas%20Real%20Estate%20Market%20Analysis.png" width="230" alt="Texas Real Estate Market Analysis" style="border-radius:10px;">
+    </td>
+    <td valign="middle">
+      <p style="margin:0; padding:0;">
+        <a href="https://github.com/tommasoruzza/Texas-Real-Estate-Market-Analysis" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
+          Texas Real Estate Market Analysis
+        </a>
+      </p>
+      <p style="margin-top:6px;">
+        Texas Realty Insights wanted to analyze real estate market trends in the state of Texas, leveraging historical data 
+        related to property sales. The goal was to provide statistical and visual insights that support strategic decisions 
+        on sales and optimization of real estate listings.
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 
 
