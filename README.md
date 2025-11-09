@@ -6,7 +6,6 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 - Email: tommaso.ruzza@libero.it
 - LinkedIn: https://www.linkedin.com/in/tommaso-ruzza
-- Datascienceportfol.io: https://www.datascienceportfol.io/tommasoruzza
 
 # Projects
 
