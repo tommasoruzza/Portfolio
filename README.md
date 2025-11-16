@@ -129,7 +129,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 <table>
   <tr>
     <td width="260" align="center" valign="middle">
-      <img src="images/Credit%20Realibility%20for%20Credit%20Card%20Issuance.png" width="230" alt="Credit Realibility for Credit Card Issuance" style="border-radius:10px;">
+      <img src="images/Credit%20Reliability%20for%20Credit%20Card%20Issuance.png" width="230" alt="Credit Realibility for Credit Card Issuance" style="border-radius:10px;">
     </td>
     <td valign="middle">
       <p style="margin:0; padding:0;">
