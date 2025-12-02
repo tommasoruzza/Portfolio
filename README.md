@@ -383,7 +383,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Core Competencies
 
-- **Methodologies:** Machine Learning, Deep Learning, Natural Language Processing, Statistics, Big Data Analytics  
+- **Methods:** Machine Learning, Deep Learning, Natural Language Processing, Statistics, Big Data Analytics  
 - **Languages:** Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), R 
 - **Tools:** MySQL, Tableau, PySpark, MS Excel, Power BI
 
