@@ -133,7 +133,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
     </td>
     <td valign="middle">
       <p style="margin:0; padding:0;">
-        <a href="https://github.com/tommasoruzza/Credit-Reliability-for-Credit-Card-Issuance" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
+        <a href="https://github.com/tommasoruzza/Credit-Realibility-for-Credit-Card-Issuance" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
           Credit Realibility for Credit Card Issuance
         </a>
       </p>
