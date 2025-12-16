@@ -6,318 +6,25 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 - Email: tommaso.ruzza@libero.it
 - LinkedIn: https://www.linkedin.com/in/tommaso-ruzza
-
+ 
 # Projects
 
-<table>
-  <tr>
-    <td width="260" align="center" valign="middle">
-      <img src="images/Vegan%20Store.png" width="230" alt="Vegan Store" style="border-radius:10px;">
-    </td>
-    <td valign="middle">
-      <p style="margin:0; padding:0;">
-        <a href="https://github.com/tommasoruzza/Vegan-Store" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
-          Vegan Store
-        </a>
-      </p>
-      <p style="margin-top:6px;">
-        In this project, I was responsible for developing customized software for a vegan store 
-        to streamline its operations, manage inventory, and enhance the overall customer experience.
-      </p>
-    </td>
-  </tr>
-</table>
+<h2>A. Data Visualization & Business Intelligence</h2>
 
 <table>
   <tr>
     <td width="260" align="center" valign="middle">
-      <img src="images/Analysis%20of%20Airline%20Disasters.png" width="230" alt="Analysis of Airline Disasters" style="border-radius:10px;">
+      <img src="images/Analysis%20of%20Customer%20Complaints.png" width="230" alt="Analysis of Customer Complaints" style="border-radius:10px;">
     </td>
     <td valign="middle">
       <p style="margin:0; padding:0;">
-        <a href="https://github.com/tommasoruzza/Analysis-of-Airline-Disasters" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
-          Analysis of Airline Disasters
+        <a href="https://github.com/tommasoruzza/Analysis-of-Consumer-Complaints" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
+          Analysis of Customer Complaints
         </a>
       </p>
       <p style="margin-top:6px;">
-        In this project, I conducted an in-depth analysis of airplane disasters using Python 
-        to uncover patterns, trends, and insights related to aviation accidents.
-      </p>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="260" align="center" valign="middle">
-      <img src="images/Wikipedia%20Analysis.png" width="230" alt="Wikipedia Analysis" style="border-radius:10px;">
-    </td>
-    <td valign="middle">
-      <p style="margin:0; padding:0;">
-        <a href="https://github.com/tommasoruzza/Wikipedia-Analysis" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
-          Wikipedia Analysis
-        </a>
-      </p>
-      <p style="margin-top:6px;">
-        I performed an exploratory analysis on Wikipedia content across multiple categories 
-        and developed a Machine Learning model to automatically classify new articles 
-        based on their text (summary + full content).
-      </p>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="260" align="center" valign="middle">
-      <img src="images/Bitcoin%20Sentiment%20Analysis.png" width="230" alt="Bitcoin Sentiment Analysis" style="border-radius:10px;">
-    </td>
-    <td valign="middle">
-      <p style="margin:0; padding:0;">
-        <a href="https://github.com/tommasoruzza/Bitcoin-Sentiment-Analysis" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
-          Bitcoin Sentiment Analysis
-        </a>
-      </p>
-      <p style="margin-top:6px;">
-        MarketPulse Analytics, a company in the market research sector, initiated a project to estimate public consensus 
-        on Bitcoin by analyzing millions of tweets. My responsibility was to conduct a sentiment analysis on the collected 
-        data and understand how opinions regarding Bitcoin varied over time.
-      </p>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="260" align="center" valign="middle">
-      <img src="images/Anti%20Spam%20Software%20for%20a%20University.png" width="230" alt="Anti Spam Software for a University" style="border-radius:10px;">
-    </td>
-    <td valign="middle">
-      <p style="margin:0; padding:0;">
-        <a href="https://github.com/tommasoruzza/Anti-Spam-Software-for-a-University" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
-          Anti Spam Software for a University
-        </a>
-      </p>
-      <p style="margin-top:6px;">
-        The anti-spam software project aimed to safeguard university communication channels 
-        by developing a robust system to detect and filter out spam emails.
-      </p>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="260" align="center" valign="middle">
-      <img src="images/Automatic%20Fake%20News%20Recognition.png" width="230" alt="Automatic Fake News Recognition" style="border-radius:10px;">
-    </td>
-    <td valign="middle">
-      <p style="margin:0; padding:0;">
-        <a href="https://github.com/tommasoruzza/Automatic-Fake-News-Recognition-Project" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
-          Automatic Fake News Recognition
-        </a>
-      </p>
-      <p style="margin-top:6px;">
-        The primary objective achieved through this project was the development and deployment of an efficient 
-        and accurate system for automatically detecting fake news articles using Natural Language Processing (NLP) 
-        techniques and machine learning models.
-      </p>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="260" align="center" valign="middle">
-      <img src="images/Credit%20Reliability%20for%20Credit%20Card%20Issuance.png" width="230" alt="Credit Realibility for Credit Card Issuance" style="border-radius:10px;">
-    </td>
-    <td valign="middle">
-      <p style="margin:0; padding:0;">
-        <a href="https://github.com/tommasoruzza/Credit-Realibility-for-Credit-Card-Issuance" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
-          Credit Realibility for Credit Card Issuance
-        </a>
-      </p>
-      <p style="margin-top:6px;">
-        I worked on a Credit Reliability project for credit card issuance, covering the complete machine learning pipeline: 
-        from collecting and preprocessing applicant data (income, credit history, employment status) 
-        to feature engineering and model selection.
-      </p>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="260" align="center" valign="middle">
-      <img src="images/Cross%20Selling%20Insurance%20Policies.png" width="230" alt="Cross Selling Insurance Policies" style="border-radius:10px;">
-    </td>
-    <td valign="middle">
-      <p style="margin:0; padding:0;">
-        <a href="https://github.com/tommasoruzza/Cross-Selling-Insurance-Policies" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
-          Cross Selling Insurance Policies
-        </a>
-      </p>
-      <p style="margin-top:6px;">
-        The objective was to understand which existing customers were more likely to accept additional insurance products, 
-        and to support Marketing / Sales with a data-driven prioritization.
-      </p>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="260" align="center" valign="middle">
-      <img src="images/Customer%20Segmentation.png" width="230" alt="Customer Segmentation" style="border-radius:10px;">
-    </td>
-    <td valign="middle">
-      <p style="margin:0; padding:0;">
-        <a href="https://github.com/tommasoruzza/Customer-Segmentation-for-a-Financial-Services-Company" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
-          Customer Segmentation
-        </a>
-      </p>
-      <p style="margin-top:6px;">
-        In this project, I performed customer segmentation for a financial services company. 
-        The primary goal was to identify distinct customer segments to enable targeted marketing strategies 
-        and improve customer engagement.
-      </p>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="260" align="center" valign="middle">
-      <img src="images/Anti%20Hater%20Filter%20for%20Social%20Networks.png" width="230" alt="Anti-Hater Filter for Social Networks" style="border-radius:10px;">
-    </td>
-    <td valign="middle">
-      <p style="margin:0; padding:0;">
-        <a href="https://github.com/tommasoruzza/Anti-Hater-Filter-for-Social-Networks" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
-          Anti-Hater Filter for Social Networks
-        </a>
-      </p>
-      <p style="margin-top:6px;">
-        I developed a Deep Learning “Anti-Hater Filter” to automatically classify toxic comments into 6 categories 
-        (insult, threat, obscene, identity hate, etc.). I prepared and balanced a 160k comments dataset, tokenized the text, 
-        and trained an LSTM/GRU based multi-label classifier.
-      </p>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="260" align="center" valign="middle">
-      <img src="images/Face%20Detection%20System%20for%20a%20Digital%20Camera.png" width="230" alt="Face Detection System for a Digital Camera" style="border-radius:10px;">
-    </td>
-    <td valign="middle">
-      <p style="margin:0; padding:0;">
-        <a href="https://github.com/tommasoruzza/Face-Detection-System-for-a-Digital-Camera" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
-          Face Detection System for a Digital Camera
-        </a>
-      </p>
-      <p style="margin-top:6px;">
-        I designed and implemented a Face Detection System for a Digital Camera to automatically improve selfie shooting quality. 
-        I sourced and prepared data, extracted HOG features, implemented a sliding-window detector 
-        and trained Scikit-learn classifiers from scratch (no pre-trained models).
-      </p>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="260" align="center" valign="middle">
-      <img src="images/Bank%20Customer%20Analysis.png" width="230" alt="Bank Customer Analysis" style="border-radius:10px;">
-    </td>
-    <td valign="middle">
-      <p style="margin:0; padding:0;">
-        <a href="https://github.com/tommasoruzza/Bank-Customer-Analysis" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
-          Bank Customer Analysis
-        </a>
-      </p>
-      <p style="margin-top:6px;">
-        Banking Intelligence aimed to develop a machine learning model to predict future customer behaviors 
-        based on data and product ownership characteristics. The goal was to build a feature table 
-        for training machine learning models by enriching customer data with various indicators.
-      </p>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="260" align="center" valign="middle">
-      <img src="images/Supermarket%20Chain%20Analysis.png" width="230" alt="Supermarket Chain Analysis" style="border-radius:10px;">
-    </td>
-    <td valign="middle">
-      <p style="margin:0; padding:0;">
-        <a href="https://github.com/tommasoruzza/Supermarket-Chain-Analysis" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
-          Supermarket Chain Analysis
-        </a>
-      </p>
-      <p style="margin-top:6px;">
-        Developed an interactive Tableau dashboard and story for a leading European retailer 
-        to monitor sales performance, profitability, and logistics across multiple countries.
-      </p>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="260" align="center" valign="middle">
-      <img src="images/Analysis%20of%20Homicides%20in%20the%20USA.png" width="230" alt="Analysis of Homicides in the USA" style="border-radius:10px;">
-    </td>
-    <td valign="middle">
-      <p style="margin:0; padding:0;">
-        <a href="https://github.com/tommasoruzza/Analysis-of-Homicides-in-the-USA" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
-          Analysis of Homicides in the USA
-        </a>
-      </p>
-      <p style="margin-top:6px;">
-        Developed a multi-page Power BI dashboard integrating data from multiple sources (Wikipedia, CSV, Excel) 
-        to analyze and visualize U.S. states’ population and homicide statistics.
-      </p>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="260" align="center" valign="middle">
-      <img src="images/Texas%20Real%20Estate%20Market%20Analysis.png" width="230" alt="Texas Real Estate Market Analysis" style="border-radius:10px;">
-    </td>
-    <td valign="middle">
-      <p style="margin:0; padding:0;">
-        <a href="https://github.com/tommasoruzza/Texas-Real-Estate-Market-Analysis" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
-          Texas Real Estate Market Analysis
-        </a>
-      </p>
-      <p style="margin-top:6px;">
-        Texas Realty Insights wanted to analyze real estate market trends in the state of Texas, leveraging historical data 
-        related to property sales. The goal was to provide statistical and visual insights that support strategic decisions 
-        on sales and optimization of real estate listings.
-      </p>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="260" align="center" valign="middle">
-      <img src="images/Statistical%20Model%20for%20Neonatal%20Weight%20Predictions.png" width="230" alt="Statistical Model for Neonatal Weight Predictions" style="border-radius:10px;">
-    </td>
-    <td valign="middle">
-      <p style="margin:0; padding:0;">
-        <a href="https://github.com/tommasoruzza/Statistical-Model-for-Neonatal-Weight-Predictions" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
-          Statistical Model for Neonatal Weight Predictions
-        </a>
-      </p>
-      <p style="margin-top:6px;">
-        As part of the Neonatal Health Solutions initiative, I led the development of a statistical model aimed at predicting 
-        newborn birth weight based on clinical variables collected from three hospitals. This project was designed to enhance 
-        the management of high-risk pregnancies.
+        Designed and developed a re-structured Excel analytical dashboard for FinServ Solutions 
+        to optimise the analysis of consumer complaints in the financial sector.
       </p>
     </td>
   </tr>
@@ -365,17 +72,320 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 <table>
   <tr>
     <td width="260" align="center" valign="middle">
-      <img src="images/Analysis%20of%20Customer%20Complaints.png" width="230" alt="Analysis of Customer Complaints" style="border-radius:10px;">
+      <img src="images/Analysis%20of%20Homicides%20in%20the%20USA.png" width="230" alt="Analysis of Homicides in the USA" style="border-radius:10px;">
     </td>
     <td valign="middle">
       <p style="margin:0; padding:0;">
-        <a href="https://github.com/tommasoruzza/Analysis-of-Consumer-Complaints" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
-          Analysis of Customer Complaints
+        <a href="https://github.com/tommasoruzza/Analysis-of-Homicides-in-the-USA" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
+          Analysis of Homicides in the USA
         </a>
       </p>
       <p style="margin-top:6px;">
-        Designed and developed a re-structured Excel analytical dashboard for FinServ Solutions 
-        to optimise the analysis of consumer complaints in the financial sector.
+        Developed a multi-page Power BI dashboard integrating data from multiple sources (Wikipedia, CSV, Excel) 
+        to analyze and visualize U.S. states’ population and homicide statistics.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="260" align="center" valign="middle">
+      <img src="images/Supermarket%20Chain%20Analysis.png" width="230" alt="Supermarket Chain Analysis" style="border-radius:10px;">
+    </td>
+    <td valign="middle">
+      <p style="margin:0; padding:0;">
+        <a href="https://github.com/tommasoruzza/Supermarket-Chain-Analysis" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
+          Supermarket Chain Analysis
+        </a>
+      </p>
+      <p style="margin-top:6px;">
+        Developed an interactive Tableau dashboard and story for a leading European retailer 
+        to monitor sales performance, profitability, and logistics across multiple countries.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="260" align="center" valign="middle">
+      <img src="images/Texas%20Real%20Estate%20Market%20Analysis.png" width="230" alt="Texas Real Estate Market Analysis" style="border-radius:10px;">
+    </td>
+    <td valign="middle">
+      <p style="margin:0; padding:0;">
+        <a href="https://github.com/tommasoruzza/Texas-Real-Estate-Market-Analysis" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
+          Texas Real Estate Market Analysis
+        </a>
+      </p>
+      <p style="margin-top:6px;">
+        Texas Realty Insights wanted to analyze real estate market trends in the state of Texas, leveraging historical data 
+        related to property sales. The goal was to provide statistical and visual insights that support strategic decisions 
+        on sales and optimization of real estate listings.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<h2>B. Machine Learning & Predictive Analysis</h2>
+
+<table>
+  <tr>
+    <td width="260" align="center" valign="middle">
+      <img src="images/Customer%20Segmentation.png" width="230" alt="Customer Segmentation" style="border-radius:10px;">
+    </td>
+    <td valign="middle">
+      <p style="margin:0; padding:0;">
+        <a href="https://github.com/tommasoruzza/Customer-Segmentation-for-a-Financial-Services-Company" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
+          Customer Segmentation
+        </a>
+      </p>
+      <p style="margin-top:6px;">
+        In this project, I performed customer segmentation for a financial services company. 
+        The primary goal was to identify distinct customer segments to enable targeted marketing strategies 
+        and improve customer engagement.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="260" align="center" valign="middle">
+      <img src="images/Cross%20Selling%20Insurance%20Policies.png" width="230" alt="Cross Selling Insurance Policies" style="border-radius:10px;">
+    </td>
+    <td valign="middle">
+      <p style="margin:0; padding:0;">
+        <a href="https://github.com/tommasoruzza/Cross-Selling-Insurance-Policies" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
+          Cross Selling Insurance Policies
+        </a>
+      </p>
+      <p style="margin-top:6px;">
+        The objective was to understand which existing customers were more likely to accept additional insurance products, 
+        and to support Marketing / Sales with a data-driven prioritization.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="260" align="center" valign="middle">
+      <img src="images/Credit%20Reliability%20for%20Credit%20Card%20Issuance.png" width="230" alt="Credit Realibility for Credit Card Issuance" style="border-radius:10px;">
+    </td>
+    <td valign="middle">
+      <p style="margin:0; padding:0;">
+        <a href="https://github.com/tommasoruzza/Credit-Realibility-for-Credit-Card-Issuance" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
+          Credit Realibility for Credit Card Issuance
+        </a>
+      </p>
+      <p style="margin-top:6px;">
+        I worked on a Credit Reliability project for credit card issuance, covering the complete machine learning pipeline: 
+        from collecting and preprocessing applicant data (income, credit history, employment status) 
+        to feature engineering and model selection.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="260" align="center" valign="middle">
+      <img src="images/Bank%20Customer%20Analysis.png" width="230" alt="Bank Customer Analysis" style="border-radius:10px;">
+    </td>
+    <td valign="middle">
+      <p style="margin:0; padding:0;">
+        <a href="https://github.com/tommasoruzza/Bank-Customer-Analysis" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
+          Bank Customer Analysis
+        </a>
+      </p>
+      <p style="margin-top:6px;">
+        Banking Intelligence aimed to develop a machine learning model to predict future customer behaviors 
+        based on data and product ownership characteristics. The goal was to build a feature table 
+        for training machine learning models by enriching customer data with various indicators.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="260" align="center" valign="middle">
+      <img src="images/Statistical%20Model%20for%20Neonatal%20Weight%20Predictions.png" width="230" alt="Statistical Model for Neonatal Weight Predictions" style="border-radius:10px;">
+    </td>
+    <td valign="middle">
+      <p style="margin:0; padding:0;">
+        <a href="https://github.com/tommasoruzza/Statistical-Model-for-Neonatal-Weight-Predictions" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
+          Statistical Model for Neonatal Weight Predictions
+        </a>
+      </p>
+      <p style="margin-top:6px;">
+        As part of the Neonatal Health Solutions initiative, I led the development of a statistical model aimed at predicting 
+        newborn birth weight based on clinical variables collected from three hospitals. This project was designed to enhance 
+        the management of high-risk pregnancies.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<h2>C. Natural Language Processing & Deep Learning</h2>
+
+<table>
+  <tr>
+    <td width="260" align="center" valign="middle">
+      <img src="images/Automatic%20Fake%20News%20Recognition.png" width="230" alt="Automatic Fake News Recognition" style="border-radius:10px;">
+    </td>
+    <td valign="middle">
+      <p style="margin:0; padding:0;">
+        <a href="https://github.com/tommasoruzza/Automatic-Fake-News-Recognition-Project" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
+          Automatic Fake News Recognition
+        </a>
+      </p>
+      <p style="margin-top:6px;">
+        The primary objective achieved through this project was the development and deployment of an efficient 
+        and accurate system for automatically detecting fake news articles using Natural Language Processing (NLP) 
+        techniques and machine learning models.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="260" align="center" valign="middle">
+      <img src="images/Anti%20Hater%20Filter%20for%20Social%20Networks.png" width="230" alt="Anti-Hater Filter for Social Networks" style="border-radius:10px;">
+    </td>
+    <td valign="middle">
+      <p style="margin:0; padding:0;">
+        <a href="https://github.com/tommasoruzza/Anti-Hater-Filter-for-Social-Networks" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
+          Anti-Hater Filter for Social Networks
+        </a>
+      </p>
+      <p style="margin-top:6px;">
+        I developed a Deep Learning “Anti-Hater Filter” to automatically classify toxic comments into 6 categories 
+        (insult, threat, obscene, identity hate, etc.). I prepared and balanced a 160k comments dataset, tokenized the text, 
+        and trained an LSTM/GRU based multi-label classifier.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="260" align="center" valign="middle">
+      <img src="images/Anti%20Spam%20Software%20for%20a%20University.png" width="230" alt="Anti Spam Software for a University" style="border-radius:10px;">
+    </td>
+    <td valign="middle">
+      <p style="margin:0; padding:0;">
+        <a href="https://github.com/tommasoruzza/Anti-Spam-Software-for-a-University" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
+          Anti Spam Software for a University
+        </a>
+      </p>
+      <p style="margin-top:6px;">
+        The anti-spam software project aimed to safeguard university communication channels 
+        by developing a robust system to detect and filter out spam emails.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<h2>D. Big Data & Advanced Analytics</h2>
+
+<table>
+  <tr>
+    <td width="260" align="center" valign="middle">
+      <img src="images/Wikipedia%20Analysis.png" width="230" alt="Wikipedia Analysis" style="border-radius:10px;">
+    </td>
+    <td valign="middle">
+      <p style="margin:0; padding:0;">
+        <a href="https://github.com/tommasoruzza/Wikipedia-Analysis" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
+          Wikipedia Analysis
+        </a>
+      </p>
+      <p style="margin-top:6px;">
+        I performed an exploratory analysis on Wikipedia content across multiple categories 
+        and developed a Machine Learning model to automatically classify new articles 
+        based on their text (summary + full content).
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="260" align="center" valign="middle">
+      <img src="images/Bitcoin%20Sentiment%20Analysis.png" width="230" alt="Bitcoin Sentiment Analysis" style="border-radius:10px;">
+    </td>
+    <td valign="middle">
+      <p style="margin:0; padding:0;">
+        <a href="https://github.com/tommasoruzza/Bitcoin-Sentiment-Analysis" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
+          Bitcoin Sentiment Analysis
+        </a>
+      </p>
+      <p style="margin-top:6px;">
+        MarketPulse Analytics, a company in the market research sector, initiated a project to estimate public consensus 
+        on Bitcoin by analyzing millions of tweets. My responsibility was to conduct a sentiment analysis on the collected 
+        data and understand how opinions regarding Bitcoin varied over time.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<h2>E. Applied Python & Computer Vision</h2>
+
+<table>
+  <tr>
+    <td width="260" align="center" valign="middle">
+      <img src="images/Vegan%20Store.png" width="230" alt="Vegan Store" style="border-radius:10px;">
+    </td>
+    <td valign="middle">
+      <p style="margin:0; padding:0;">
+        <a href="https://github.com/tommasoruzza/Vegan-Store" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
+          Vegan Store
+        </a>
+      </p>
+      <p style="margin-top:6px;">
+        In this project, I was responsible for developing customized software for a vegan store 
+        to streamline its operations, manage inventory, and enhance the overall customer experience.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="260" align="center" valign="middle">
+      <img src="images/Face%20Detection%20System%20for%20a%20Digital%20Camera.png" width="230" alt="Face Detection System for a Digital Camera" style="border-radius:10px;">
+    </td>
+    <td valign="middle">
+      <p style="margin:0; padding:0;">
+        <a href="https://github.com/tommasoruzza/Face-Detection-System-for-a-Digital-Camera" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
+          Face Detection System for a Digital Camera
+        </a>
+      </p>
+      <p style="margin-top:6px;">
+        I designed and implemented a Face Detection System for a Digital Camera to automatically improve selfie shooting quality. 
+        I sourced and prepared data, extracted HOG features, implemented a sliding-window detector 
+        and trained Scikit-learn classifiers from scratch (no pre-trained models).
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="260" align="center" valign="middle">
+      <img src="images/Analysis%20of%20Airline%20Disasters.png" width="230" alt="Analysis of Airline Disasters" style="border-radius:10px;">
+    </td>
+    <td valign="middle">
+      <p style="margin:0; padding:0;">
+        <a href="https://github.com/tommasoruzza/Analysis-of-Airline-Disasters" target="_blank" style="text-decoration:none; color:#0366d6; font-size:20px; font-weight:bold;">
+          Analysis of Airline Disasters
+        </a>
+      </p>
+      <p style="margin-top:6px;">
+        In this project, I conducted an in-depth analysis of airplane disasters using Python 
+        to uncover patterns, trends, and insights related to aviation accidents.
       </p>
     </td>
   </tr>
